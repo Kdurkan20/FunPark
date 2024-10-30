@@ -1,0 +1,310 @@
+h1{
+
+    background-color: lightcoral;
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#upper{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#dragon{
+
+    
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#dragon-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("dragon.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#dogs{
+
+    
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#dogs-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("dogs.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#spiderman{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#spiderman-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("spiderman.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#crock{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#crock-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("crock.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#fish{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#fish-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("fish.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#pirat{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#pirat-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("pirat.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#pigs{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#pigs-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("pig.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#frozen{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#frozen-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("frozen.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#shark{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#shark-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("shark.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#klown{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#klown-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("klown.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#jungle{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#jungle-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("jungle.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#firefighter{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#firefighter-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("fire.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+#pool{
+
+    background-color: lightcoral;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+#pool-picture{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 15px;
+    background-image: url("pool.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: right;
+}
+
+.reserved{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: lightsalmon;
+    cursor: pointer;
+    padding-bottom: 5px;
+}
+
+.reserved:hover{
+
+    background-color: #04AA6D;
+    color: white;
+}
+
+

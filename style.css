@@ -1,0 +1,159 @@
+body{
+
+    background-color: lightskyblue;
+}
+header{
+
+    background-color: lightblue;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    background-image: url("zagorje.jpg");
+    color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+
+
+#main{
+
+    font-family: monospace;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 15px;
+    background-image: url("zagorje.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#about-us{
+
+    background-color: lightgreen;
+    font-family: monospace;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 15px;
+    background-image: url("zagorje.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.napuhanci{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+.satori{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+.najam-igra{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+.contact{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+.napuhanac{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: lightsalmon;
+    cursor: pointer;
+    padding-bottom: 5px;
+}
+
+.igre{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: antiquewhite;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.info{
+
+    font-family: monospace;
+    font-size: 20px;
+    border: none;
+    background-color: antiquewhite;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.napuhanci:hover{
+
+    background-color: #04AA6D;
+    color: white;
+}
+
+.satori:hover{
+
+    background-color: red;
+    color: white;
+}
+
+.najam-igra:hover{
+
+    background-color: blue;
+    color: white;
+}
+
+.contact:hover{
+
+    background-color: orange;
+    color: white;
+}
+
+.napuhanac:hover{
+
+    background-color: orangered;
+    color: white;
+}
+
+.igre:hover{
+
+    background-color: purple;
+    color: white;
+}
+
+.info:hover{
+
+    background-color: darkorchid;
+    color: white;
+}
+
+a:link{
+
+    text-decoration: none;
+}
+
+
+
